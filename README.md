@@ -195,7 +195,9 @@ Feedants-Application/
 │
 ├── .gitignore
 └── README.md
-Architecture
+
+
+#Architecture
 
 The backend follows a layered architecture:
 
