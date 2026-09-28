@@ -829,6 +829,8 @@ Responsive React Native UI
 API validation
 Database consistency
 Concurrent registration protection
-Author
 
+
+#Author
 Ashish More
+
