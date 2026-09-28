@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Feedants",
+    "slug": "feedants-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#0F6B5C"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.feedants.mobile"
+    },
+    "android": {
+      "package": "com.feedants.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#0F6B5C"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {}
+  }
+}
